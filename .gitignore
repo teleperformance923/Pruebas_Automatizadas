@@ -1,0 +1,13 @@
+# Dependencias
+node_modules/
+
+# Archivos de entorno
+.env
+
+# Reportes y capturas
+reports/
+screenshots/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
